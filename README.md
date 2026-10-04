@@ -29,7 +29,6 @@ It runs entirely through the console. You speak to JARVIS, and it listens, proce
 - Python
 - Google Gemini API
 - SpeechRecognition
-- Google Speech Recognition
 - pyttsx3
 - Windows SAPI5
 - Wikipedia
